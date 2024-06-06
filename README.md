@@ -7,17 +7,17 @@
 ## >_NetWorking🌐
 
 <div style="text-align: center;">
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="">
+    <a href="www.linkedin.com/in/mateus-frota-9b382b2a5" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="Linkedin">
     </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="">
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="">
+    <a href="https://www.instagram.com/mtfrota.exe/" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="Instagram">
     </a>
     <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Plataforma_DIO-black?style=for-the-badge&logo=d" target="">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="Site">
+    </a>
+    <a href="https://www.dio.me/users/frota_mateus_16" target="_blank">
+        <img src="https://img.shields.io/badge/Plataforma_DIO-black?style=for-the-badge&logo=d" target="DIO">
     </a>
 </div>
 <br>
@@ -29,7 +29,7 @@ Sou formado em <b>ADS pela estácio (2023) e atuo no cargo de Tecnico de T.I - S
 
 > <b> Apesar de tudo..</b>
 - Tenho um amor por motores e mecânica 🛠️⚙️
-- Gosto de jogos online de vez enquanto 🎮🕹️
+- Gosto de jogos online de vez em quando. 🎮🕹️
 - Amo o ar livre e a liberdade 🍃
 - Amo filmes de ficção ciênticia, inclusive o filme [Interstellar](https://www.youtube.com/watch?v=zSWdZVtXT7E) é o meu favorito 🎬
 
