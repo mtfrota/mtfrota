@@ -7,16 +7,16 @@
 ## >_NetWorking🌐
 
 <div style="text-align: center">
-    <a href="https://www.linkedin.com/in/mateus-frota-9b382b2a5" target="_blank">
+    <a href="https://www.linkedin.com/in/mateus-frota-9b382b2a5" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://www.instagram.com/mtfrota.exe/" target="_blank">
+    <a href="https://www.instagram.com/mtfrota.exe/" target="_blank" rel="noopener noreferrer" >
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="#" target="_blank">
+    <a href="#" target="_blank" rel="noopener noreferrer" >
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
     </a>
-    <a href="https://www.dio.me/users/frota_mateus_16" target="_blank">
+    <a href="https://www.dio.me/users/frota_mateus_16" target="_blank" rel="noopener noreferrer" >
         <img src="https://img.shields.io/badge/Plataforma_DIO-black?style=for-the-badge&logo=d&logoColor=white" alt="DIO">
     </a>
 </div>
