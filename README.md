@@ -54,6 +54,7 @@ Sou formado em <b>ADS pela estácio (2023) e atuo no cargo de Tecnico de T.I - S
 <br>
 <br>
 
+<img src="https://raw.githubusercontent.com/Mateus/Mateus/output/snake.svg" alt="Snake animation" />
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px; flex-wrap: wrap;">
      <img src="https://github-readme-stats.vercel.app/api?username=mtfrota&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs" style="width: 100%;" />
