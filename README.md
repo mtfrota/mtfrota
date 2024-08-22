@@ -35,14 +35,20 @@ Sou formado em <b>ADS pela estácio (2023) e atuo no cargo de Tecnico de T.I - S
 - Amo filmes de ficção ciênticia, inclusive o filme [Interstellar](https://www.youtube.com/watch?v=zSWdZVtXT7E) é o meu favorito 🎬
 
 
-## >_Hard Skils💻
+## >_Technology and Tools💻
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30"         
+    alt="angularjs logo"  /><img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"/>
+    <img width="12" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" 
+    alt="tailwindcss logo"  />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
@@ -54,7 +60,6 @@ Sou formado em <b>ADS pela estácio (2023) e atuo no cargo de Tecnico de T.I - S
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/Mateus/Mateus/output/snake.svg" alt="Snake animation" />
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px; flex-wrap: wrap;">
      <img src="https://github-readme-stats.vercel.app/api?username=mtfrota&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs" style="width: 100%;" />
