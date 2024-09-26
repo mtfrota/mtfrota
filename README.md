@@ -25,7 +25,7 @@
 
 ## >_Sobre mim 🤔
 
-Sou formado em <b>ADS pela estácio (2023) e atuo no cargo de Tecnico de T.I - Suporte. <br>Atualmente eu sou Desenvolvedor Full-Stack in training, pela [Digital College](https://digitalcollege.com.br/) e aluno da plataforma [DIO_](https://www.dio.me/users/frota_mateus_16).</b> <br> E por aqui eu gosto de compartilhar meus projetos pessoais e também trabalhos complementares.
+Sou formado em <b>ADS pela estácio (2023) e atuo no cargo de Tecnico de T.I - Suporte. <br>Atualmente eu sou Desenvolvedor Full-Stack in training, pela [Digital College](https://digitalcollege.com.br/) e aluno da plataforma [DIO_](https://www.dio.me/users/frota_mateus_16).</b> <br> E por aqui eu gosto de compartilhar meus projetos pessoais com foco em python e frontend, também trabalhos complementares.
 
 
 > <b> Apesar de tudo..</b>
@@ -38,20 +38,17 @@ Sou formado em <b>ADS pela estácio (2023) e atuo no cargo de Tecnico de T.I - S
 ## >_Technology and Tools💻
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30"         
-    alt="angularjs logo"  /><img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"/>
-    <img width="12" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" 
-    alt="tailwindcss logo"  />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <br>
 <br>
