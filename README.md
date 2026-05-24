@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mateus--frotaa-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mateus-frotaa)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mateus--frotaa-0A66C2?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/mateus-frotaa](https://www.linkedin.com/in/mateus-frota-a216b4317/))&nbsp;
 [![Email](https://img.shields.io/badge/Email-frota.exe@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:frota.exe@gmail.com)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-@mtfrota.exe-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mtfrota.exe/)
 
