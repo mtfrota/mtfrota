@@ -15,16 +15,14 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mateus--frotaa-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mateus-frotaa)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-mtfrota-24292e?style=flat-square&logo=github)](https://github.com/mtfrota)&nbsp;
 [![Email](https://img.shields.io/badge/Email-frota.exe@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:frota.exe@gmail.com)&nbsp;
-[![DIO](https://img.shields.io/badge/DIO-frota__mateus__16-black?style=flat-square)](https://www.dio.me/users/frota_mateus_16)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-@mtfrota.exe-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mtfrota.exe/)
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=mtfrota&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&count_private=true" />
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=mtfrota&show_icons=true&hide_border=true&theme=tokyonight&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&count_private=true&cache_seconds=1800" />
 
 ### Olá, mundo! 👋
 
@@ -156,15 +154,15 @@ Busco minha **primeira oportunidade como desenvolvedor** para contribuir com pro
 
 <div align="center">
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mtfrota&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img height="160" src="https://streak-stats.demolab.com/?user=mtfrota&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtfrota&hide_border=true&layout=compact&theme=github_dark&bg_color=00000000&title_color=58A6FF&text_color=8b949e" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtfrota&hide_border=true&layout=compact&theme=tokyonight&title_color=58A6FF&text_color=8b949e&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mtfrota&theme=github-compact&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=ffffff&area_color=58A6FF&area=true)](https://github.com/mtfrota)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mtfrota&theme=tokyo-night&hide_border=true&color=58A6FF&line=58A6FF&point=ffffff&area=true)](https://github.com/mtfrota)
 
 </div>
 
